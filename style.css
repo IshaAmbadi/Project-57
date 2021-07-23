@@ -1,0 +1,34 @@
+body {
+    padding-top: 800px;
+    text-align: center;
+    margin: 0;
+}
+hr {
+    border-bottom: 5px solid purple;
+    border-top: 5px solid purple;
+    border: solid purple;
+    width: 300px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0
+}
+
+#a {
+    height: 300px;
+}
+
+#icon {
+    height: 100px;
+}
+
+#top {
+    background: linear-gradient(#B39DDB 0%, #B3E5FC 100%);
+}
+#bot {
+    background: linear-gradient(#12debb 0%, #12d8de 100%);
+}
+
+#b {
+    height: 250px
+}
